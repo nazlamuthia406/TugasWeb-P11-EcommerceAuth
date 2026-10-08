@@ -16,13 +16,17 @@ Marketplace mini berbasis **Laravel + Breeze** untuk **Tugas Rutin 11** mata kul
 
 ### Bukti Tinker 5 Query
 
-![Tinker](Tingker.png)
+![Tinker](Tinker.png)
 
-- Product::count() = 56 (50+ requirement)
-- User admin = 1
-- with('user') = Relationship + Eager Loading
-- where is_featured = 12
-- where price > 5jt = 1
+Product::count() = 56 (50+ requirement)
+
+User admin = 1
+
+with('user') = Relationship + Eager Loading
+
+where is_featured = 12
+
+where price > 5jt = 1
 
 ## Checklist Requirement
 

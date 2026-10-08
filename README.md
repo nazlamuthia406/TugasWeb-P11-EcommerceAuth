@@ -201,7 +201,7 @@ tests/Feature/AccessControlTest.php
 docs/tinker-queries.md
 ```
 
-## Troubleshooting
+* [ ] Troubleshooting
 
 - **Tampilan polos / tanpa gaya** → perangkat tidak punya internet (Tailwind & Alpine dimuat dari CDN).
 - **`Class "Database\Factories\..." not found` / `Unknown column 'role'`** → jalankan `php artisan migrate:fresh --seed`.

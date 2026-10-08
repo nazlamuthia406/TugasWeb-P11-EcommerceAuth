@@ -16,7 +16,7 @@ Marketplace mini berbasis **Laravel + Breeze** untuk **Tugas Rutin 11** mata kul
 
 ### Bukti Tinker 5 Query
 
-![Tinker](Tinker.png)
+![Tinker](Tingker.png)
 
 - Product::count() = 56 (50+ requirement)
 - User admin = 1
